@@ -1315,3 +1315,7 @@ Get your API key from the [Kernel Dashboard](https://dashboard.onkernel.com).
 ## License
 
 Apache-2.0
+
+## Download History
+
+[![Download History](https://skill-history.com/chart/matrixy/agent-browser-clawdbot.svg)](https://skill-history.com/matrixy/agent-browser-clawdbot)
